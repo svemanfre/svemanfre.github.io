@@ -41,3 +41,19 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom overrides */
+.author__urls li,
+.author__urls li .label {
+  white-space: normal !important;   /* allow wrapping */
+  overflow: visible !important;
+  text-overflow: unset !important;
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+/* (optional) make the sidebar a bit wider */
+.sidebar {
+  max-width: 320px;
+  flex: 0 0 320px;
+}
