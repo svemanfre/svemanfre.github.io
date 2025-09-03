@@ -6,7 +6,7 @@ locale         : "en-US"
 site_theme     : "default"   # options: "default", "air"
 title          : "Sveva Manfredi"
 title_separator: "-"
-name           : &name "Sveva Manfredi"
+name           : &name "Sveva Manfredi" 
 description    : &description "Personal website of Sveva Manfredi"
 url            : https://svemanfre.github.io    # user site: no baseurl
 baseurl        : ""                              # keep empty for user/organization sites
