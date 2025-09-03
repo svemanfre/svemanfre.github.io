@@ -42,17 +42,29 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Custom overrides */
-.author__urls li,
-.author__urls li .label {
-  white-space: normal !important;   /* allow wrapping */
+/* --- custom overrides: let sidebar items wrap --- */
+.author__urls {                      /* the <ul> */
   overflow: visible !important;
-  text-overflow: unset !important;
-  overflow-wrap: anywhere;
-  word-break: normal;
 }
 
-/* (optional) make the sidebar a bit wider */
+.author__urls li {                   /* each <li> */
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
+}
+
+.author__urls li a,
+.author__urls li span,
+.author__urls li .label {            /* the text nodes */
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
+  display: inline !important;        /* override inline-block */
+  max-width: none !important;        /* remove width clamp */
+  overflow-wrap: anywhere;           /* allow breaking long words */
+}
+
+/* optional: make the sidebar a touch wider */
 .sidebar {
   max-width: 320px;
   flex: 0 0 320px;
