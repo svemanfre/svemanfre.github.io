@@ -18,11 +18,11 @@ author:
   avatar    : "profile.png"            # put your image in /images or root as used by the theme
   name      : "Sveva Manfredi"
   pronouns  :                           # e.g., "she/her"
-  bio       : "Short biography for the left-hand sidebar."
-  location  : "Rome, Italy"
-  employer  :                           # e.g., "University of ..."
+  bio       : "PhD student at UCLA"
+  location  : "Los Angeles, CA"
+  employer  : "University of California Los Angeles"
   uri       :                           # personal homepage if different from this site
-  email     :                           # e.g., "name@uni.it"
+  email     :  "svemanfre@ucla.edu"
 
   # Academic websites
   academia      :
@@ -55,7 +55,7 @@ author:
   keybase       :
   instagram     :
   lastfm        :
-  linkedin      :                       # e.g., "sveva-manfredi"
+  linkedin      : "sveva-manfredi-38160b182"
   mastodon      :                       # e.g., "https://mastodon.social/@yourhandle"
   medium        :
   pinterest     :
@@ -63,7 +63,7 @@ author:
   steam         :
   telegram      :
   tumblr        :
-  twitter       :                       # X/Twitter username only, no @
+  twitter       : "svevam3" 
   vine          :
   weibo         :
   wikipedia     :
