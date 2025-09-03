@@ -15,7 +15,7 @@ repository     : "svemanfre/svemanfre.github.io" # owner/repo
 # Site Author (shown in the sidebar)
 author:
   # Bio
-  avatar    : "/images/PIC_Albi2.jpeg"            # put your image in /images or root as used by the theme
+  avatar    : "images/PIC_Albi2.jpeg"            # put your image in /images or root as used by the theme
   name      : "Sveva Manfredi"
   pronouns  :                           # e.g., "she/her"
   bio       : "PhD student at UCLA"
