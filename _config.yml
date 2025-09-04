@@ -2,7 +2,7 @@
 # If you change this file, restart the server: `jekyll serve -l -H localhost`
  
 # Basic Site Settings  
-locale         : "en-US"
+locale         : "en-US" 
 site_theme     : "default"   # options: "default", "air"
 title          : "Sveva Manfredi"
 title_separator: "-"
