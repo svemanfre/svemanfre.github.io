@@ -79,4 +79,9 @@
 
 .page__title { color: var(--burgundy) !important; }             /* big page title */
 .archive__subtitle { color: var(--burgundy) !important; }      
+.page__content a { color: var(--burgundy) !important; }
+.page__content a:hover { color: #7a004d !important; }
+.btn--primary, .btn { background: var(--burgundy) !important; border-color: var(--burgundy) !important; }
+.btn--primary:hover, .btn:hover { background: #7a004d !important; border-color: #7a004d !important; }
+}
 
