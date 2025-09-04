@@ -11,6 +11,7 @@ description    : &description "Personal website of Sveva Manfredi"
 url            : https://svemanfre.github.io    # user site: no baseurl
 baseurl        : ""                              # keep empty for user/organization sites
 repository     : "svemanfre/svemanfre.github.io" # owner/repo
+logo           : "/images/apple-touch-icon.png"
 
 # Site Author (shown in the sidebar) 
 author:
