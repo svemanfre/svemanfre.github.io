@@ -12,7 +12,7 @@ url            : https://svemanfre.github.io    # user site: no baseurl
 baseurl        : ""                              # keep empty for user/organization sites
 repository     : "svemanfre/svemanfre.github.io" # owner/repo
 
-# Site Author (shown in the sidebar)
+# Site Author (shown in the sidebar) 
 author:
   # Bio
   avatar    : "profile.png"            # put your image in /images or root as used by the theme
