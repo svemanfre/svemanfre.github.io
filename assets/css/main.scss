@@ -69,3 +69,17 @@
   max-width: 320px;
   flex: 0 0 320px;
 }
+/* ---- dust blue title color overrides ---- */
+:root { --dust-blue: #7FA6B6; } /* replace with your exact hex if you prefer */
+
+.site-title a { color: var(--dust-blue) !important; }          /* top-left site title */
+.masthead__menu-item a { color: var(--dust-blue) !important; } /* header menu links */
+.masthead__menu-item a:hover { color: #5F8FA4 !important; }    /* hover shade */
+
+.page__title { color: var(--dust-blue) !important; 
+/* active/hover states in the masthead menu */
+.masthead__menu-item--active > a { color: var(--dust-blue) !important; }
+.masthead__menu-item a:hover { color: #5F8FA4 !important; }
+
+/* optional: section subtitles on list pages */
+.archive__subtitle { color: var(--dust-blue) !important; }}          
