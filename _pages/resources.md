@@ -19,7 +19,7 @@ author_profile: true
 <div class="card">
   <h3>My Guide to PhD Applications</h3>
   <p>
-    I wrote this guide after going through the PhD application process myself and drawing on my experience as a pre-doc. It covers timelines and planning, finding fit and supervisors, statements, letters, interviews, and funding—plus the small things I wish I’d known.
+    I wrote this guide after going through the PhD application process myself and drawing on my experience as a pre-doc. There are all the feedbacks and small things I wish I’d known.
   </p>
   <div class="btn-row">
     <a href="/files
