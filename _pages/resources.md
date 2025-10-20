@@ -9,7 +9,7 @@ author_profile: true
   <h3>Masterclass: Research Skills Development</h3>
   <p>
     I co-developed this masterclass with <a href="https://www.lse.ac.uk/social-policy/people/academic-staff/almudena-sevilla" target="_blank" rel="noopener">Prof. Almudena Sevilla</a> and
-    <a href="https://sites.google.com/view/pilarcuevas" target="_blank" rel="noopener">Pilar Cuevas</a>. It’s a hands-on set of sessions to help early-career researchers build practical skills for doing and communicating research.
+    <a href="https://pilarcuevasruiz.com" target="_blank" rel="noopener">Pilar Cuevas</a>. It’s a hands-on set of sessions to help early-career researchers build practical skills for doing and communicating research.
   </p>
   <div class="btn-row">
     <a href="https://www.lse.ac.uk/social-policy/research/research-clusters/wispprh/research-skills-development-program" target="_blank" rel="noopener">Open the Masterclass</a>
