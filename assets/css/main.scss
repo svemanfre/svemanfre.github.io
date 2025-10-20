@@ -84,9 +84,7 @@
 .btn--primary, .btn { background: var(--burgundy) !important; border-color: var(--burgundy) !important; }
 .btn--primary:hover, .btn:hover { background: #7a004d !important; border-color: #7a004d !important; }
 
-/* ---- research page heading colors ---- */
-#publications-title,
-#wip-title {
-  color: var(--burgundy) !important;
-}
-
+/* H2 headings inside page content */
+.page__content h2 { color: var(--burgundy) !important; }
+/* If the theme wraps H2 text in a link for anchors */
+.page__content h2 > a { color: var(--burgundy) !important; }
