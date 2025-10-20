@@ -84,4 +84,9 @@
 .btn--primary, .btn { background: var(--burgundy) !important; border-color: var(--burgundy) !important; }
 .btn--primary:hover, .btn:hover { background: #7a004d !important; border-color: #7a004d !important; }
 
+/* ---- research page heading colors ---- */
+#publications-title,
+#wip-title {
+  color: var(--burgundy) !important;
+}
 
