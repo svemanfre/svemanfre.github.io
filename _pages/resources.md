@@ -27,4 +27,3 @@ author_profile: true
   </div>
 </div>
 
-</div>
