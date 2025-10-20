@@ -5,13 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publications {: #publications-title}
+## Publications 
 - <span class="paper-title">Cuevas-Ruiz, P., Gimenez-Nadal, J. I., Manfredi, S., & Sevilla, A. (2025). A new model of parental time investments: A paradigm shift for addressing gender inequality in the labor market.</span> *Oxford Review of Economic Policy*. [PDF](https://svemanfre.github.io/files/cuevas-ruiz_gimenez-nadal_manfredi_sevilla_2025_oxrep.pdf)
 
 - <span class="paper-title">Leite-Mariante, G., Manfredi, S., & Landais, C. (2025). Explaining variation in child penalties: The role of gender norms and policies.</span> *LSE Public Policy Review*, 3(4).
   [PDF](https://svemanfre.github.io/files/leite-mariante_manfredi_landais_2025_lseppr.pdf)
 
-## Work in progress {: #wip-title}
+## Work in progress 
 - <span class="paper-title">The Price of Settling Down</span> (with [Andrea Pop-Catalisan](https://andreapopcatalisan.github.io/research/))
 
 - <span class="paper-title">The Cost of Identity: Theory and Experimental Evidence from the Energy Sector</span> (with [Gaia Dossi](https://sites.google.com/view/gaiadossi) and [Marta Morando](https://martamorando.com))
