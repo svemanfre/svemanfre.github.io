@@ -22,8 +22,7 @@ author_profile: true
     I wrote this guide after going through the PhD application process myself and drawing on my experience as a pre-doc. There are all the feedbacks and small things I wish I’d known.
   </p>
   <div class="btn-row">
-    <a href="/files
-/Guide_PhD_Applications.pdf" target="_blank" rel="noopener">Download PDF</a>
+    <a href="/files/Guide_PhD_Applications.pdf" target="_blank" rel="noopener">Download PDF</a>
   </div>
 </div>
 
