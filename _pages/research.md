@@ -13,7 +13,7 @@ author_profile: true
 
 ## Working papers
 
-- **Female Strategic Substantive Representation: Evidence from two Italian Radical Right Leaders** [[PDF](https://baffi.unibocconi.eu/sites/default/files/media/publication/manfredi%202024_0.pdf?VersionId=z9WZwiRU9IrPm.XY8d78eLtjVo9K.XQd)]
+- <span class="paper-title">Female Strategic Substantive Representation: Evidence from two Italian Radical Right Leaders</span> [[PDF](https://baffi.unibocconi.eu/sites/default/files/media/publication/manfredi%202024_0.pdf?VersionId=z9WZwiRU9IrPm.XY8d78eLtjVo9K.XQd)]
 
   <details>
   <summary>Abstract</summary>
