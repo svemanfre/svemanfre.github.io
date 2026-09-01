@@ -36,13 +36,8 @@ author_profile: true
 - <span class="paper-title">Paying for Equality</span> (with [Gaia Dossi](https://sites.google.com/view/gaiadossi) and [Marta Morando](https://martamorando.com))
   <details><summary>Abstract</summary>
   <div class="abstract">
-  This paper argues that workplace equality may have a transition cost when underrep-
-resentation itself is costly. If minority workers value representation in the workplace,
-then segregated workplaces can arise even with neutral employers. Moving toward
-equality requires some minority workers to enter less representative workplaces before
-those workplaces become attractive to others. This creates a private cost for early
-movers and generates a role for compensation, coordination, or policies that reduce the
-cost of being underrepresented.
+  This paper argues that workplace equality may have a transition cost when underrepresentation itself is costly. If minority workers value representation in the workplace, then segregated workplaces can arise even with neutral employers. Moving toward
+equality requires some minority workers to enter less representative workplaces before those workplaces become attractive to others. This creates a private cost for early movers and generates a role for compensation, coordination, or policies that reduce the cost of being underrepresented.
 
   </div>
   </details>
