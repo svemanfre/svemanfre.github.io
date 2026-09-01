@@ -33,12 +33,36 @@ author_profile: true
   </div>
   </details>
 
-- <span class="paper-title">The Cost of Identity: Theory and Experimental Evidence from the Energy Sector</span> (with [Gaia Dossi](https://sites.google.com/view/gaiadossi) and [Marta Morando](https://martamorando.com))
+- <span class="paper-title">Paying for Equality</span> (with [Gaia Dossi](https://sites.google.com/view/gaiadossi) and [Marta Morando](https://martamorando.com))
   <details><summary>Abstract</summary>
   <div class="abstract">
-  How does identity affect occupational choice? We study this question in the energy labor market, as oil and gas firms play a fundamental role in the green transition. We design and administer a survey experiment to job seekers entering the labor market for the first time. We find that individuals assign positive amenity value to working for a company whose core business aligns with their environmental identity and disamenity value to those that conflict with it. Respondents with green identities are willing to forgo 20% of their salary to work in a renewable energy firm rather than a generic energy company, and require a 15% wage premium to accept a job in an oil and gas firm. This pattern also holds when individuals apply to work in teams focusing on clean energy within these firms. To isolate social-image effects, we randomize whether job choices are private or publicly disclosed. Social image concerns significantly influence occupational choices, especially for jobs perceived as socially stigmatized. We develop a model of occupational choice in which individuals have private preferences over jobs and derive utility from aligning with social norms. In structural simulations, we study how the social environment shapes labor market inequality and the pace of the green transition.
+  This paper argues that workplace equality may have a transition cost when underrep-
+resentation itself is costly. If minority workers value representation in the workplace,
+then segregated workplaces can arise even with neutral employers. Moving toward
+equality requires some minority workers to enter less representative workplaces before
+those workplaces become attractive to others. This creates a private cost for early
+movers and generates a role for compensation, coordination, or policies that reduce the
+cost of being underrepresented.
+
   </div>
   </details>
 
+- <span class="paper-title">Always Available: Measuring the Cognitive Load of Motherhood</span> (with [Camille Landais](https://www.lse.ac.uk/people/camille-landais) and [Almudena Sevilla](https://www.lse.ac.uk/people/almudena-sevilla))
+
+  <details>
+  <summary>Abstract</summary>
+  <div class="abstract">
+  The arrival of children generates large and persistent gender gaps in labour-market outcomes, yet the parental burden created by children is usually measured in minutes of care. We develop a diary-based framework for measuring cognitive load: the continuing responsibility, availability, and interruptibility associated with children beyond active childcare. Using American Time Use Survey diaries from 2010, 2012, and 2013, we study these measures around first birth. Mothers’ paid work falls by 125 minutes per day relative to fathers, while child-present time rises by 129 minutes. Only 44.5 percent of this responsibility gap is recorded as active childcare; the remaining 55.5 percent is embedded in other primary activities. The strongest asymmetry is unshared responsibility: mothers spend 55.5 percent of child-present time without the partner, compared with 33.2 percent for fathers. Mothers also experience substantially greater fragmentation of child-related responsibility throughout the day. These results show that motherhood changes not only how much care mothers provide, but also the cognitive demands and organization of the responsibility they carry.
+  </div>
+  </details>
+
+- <span class="paper-title">Parenting Under Scarcity: Parental Presence, Children’s Time, and the Persistence of Inequality</span>
+
+  <details>
+  <summary>Abstract</summary>
+  <div class="abstract">
+  How is economic disadvantage across generations reflected in children’s daily environments? I combine the Panel Study of Income Dynamics with the Child Development Supplement and Transition into Adulthood Supplement to link caregivers’ own childhood economic circumstances to minute-level time diaries for 3,330 children and to their later outcomes. The multigenerational structure allows me to distinguish disadvantage in the caregiver’s generation from poverty observed during the child’s own childhood, while the diaries separate the quantity of parental presence from the composition of children’s time. I find that disadvantaged parental origins are not associated with less parental presence: in the preferred specification, children with a poor-origin caregiver spend approximately 16 additional minutes per day with a parent present. This positive gradient is absent among poor-origin families whose children are never themselves observed poor, while larger parental-presence differences appear among children who experience poverty in their own generation. Finally, total parental presence is essentially unrelated to childhood cognition and later educational attainment, whereas whole-day human-capital-oriented activity is positively associated with both outcomes. The results show that intergenerational disadvantage is reflected not simply in how much time children spend with parents, but in the broader organization and composition of children’s daily environments.
+  </div>
+  </details>
     
 
